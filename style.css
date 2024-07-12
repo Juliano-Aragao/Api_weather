@@ -1,0 +1,68 @@
+
+
+/* Estilo para o corpo do aplicativo */
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2021/10/26/06/36/sea-6742760_1280.jpg"); /* URL da imagem externa */
+    background-size: cover;
+}
+
+/* Esconder elementos de cabeçalho e rodapé */
+footer,
+header,
+#MainMenu,
+st.baseButton-header {
+    visibility: hidden;
+}
+
+h1{
+    color: #000;
+    text-shadow:
+        -1px -1px 0 #faf7f7,  
+        1px -1px 0 #faf7f7,
+        -1px 1px 0 #faf7f7,
+        1px 1px 0 #faf7f7; /* Sombras para criar contorno */
+}
+
+/* Estilo para transformar <p> em <h5> */
+.st-emotion-cache-1whx7iy.e1nzilvr4 p {
+    font-size: 20px; /* Tamanho da fonte */
+    font-weight: bold; /* Negrito */
+    color: #070707; /* Cor do texto */
+    margin-top: 10px; /* Espaçamento superior */
+    margin-bottom: 5px; /* Espaçamento inferior */
+    text-shadow:
+        -1px -1px 0 #faf7f7,  
+        1px -1px 0 #faf7f7,
+        -1px 1px 0 #faf7f7,
+        1px 1px 0 #faf7f7; 
+}
+
+/* Estilo para transformar <p> em <h5> */
+.st-emotion-cache-uzeiqp.e1nzilvr4 p {
+    font-size: 20px; /* Tamanho da fonte */
+    font-weight: bold; /* Negrito */
+    color: #faf8f8; /* Cor do texto */
+    margin-top: 10px; /* Espaçamento superior */
+    margin-bottom: 5px; /* Espaçamento inferior */
+    text-shadow:
+        -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000; /* Sombras para criar contorno */
+}
+
+div[data-testid="stTextInput-RootElement"] {
+    max-width: 300px; /* Definindo uma largura máxima de 300 pixels */
+}
+
+
+/* Estilo para o container principal do aplicativo */
+[data-testid="stAppViewContainer"] {
+    background: url("https://cdn.pixabay.com/photo/2016/10/25/12/28/thunderstorm-1768742_1280.jpg") no-repeat center center fixed; /* URL da imagem externa */
+    background-size: cover;
+}
+
+.stButton > button{
+    background-color: aqua;
+    border-color: #000;
+}
