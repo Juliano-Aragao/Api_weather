@@ -58,7 +58,7 @@ Configuração do Ambiente
 Clone o Repositório:
 
 
-git clone https://github.com/seu-usuario/Api_weather.git
+git clone https://github.com/https://github.com/Juliano-Aragao/Api_weather.git
 cd Api_weather
 Configuração da Chave de API:
 
