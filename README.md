@@ -78,7 +78,7 @@ O arquivo requirements.txt contém as dependências Python necessárias para exe
 Executando a Aplicação
 Depois de configurar o ambiente e instalar as dependências, você pode iniciar a aplicação Streamlit:
 
-streamlit run julianWeatherAPI.py
+## -/. streamlit run julianWeatherAPI.py
 Isso iniciará a aplicação Streamlit localmente. Você pode acessar a aplicação em seu navegador usando o URL fornecido pelo Streamlit (geralmente http://localhost:8501 por padrão).
 
 ## Stylo ( Visual FrontEnd )
