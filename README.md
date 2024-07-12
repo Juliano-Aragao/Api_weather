@@ -1,7 +1,4 @@
 # Api_weather
-/API_WEATHER
-├── julianWeatherAPI.py         
-├── requirements.txt  
 
 ## Aplicação de Consulta de Clima com Streamlit e Docker
 Este repositório contém uma aplicação simples que utiliza Streamlit para consultar dados meteorológicos usando a API do OpenWeather. A aplicação está containerizada usando Docker para facilitar o ambiente de desenvolvimento e execução.
