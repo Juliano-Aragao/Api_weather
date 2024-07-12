@@ -1,5 +1,7 @@
 # Api_weather
 
+![JulianWeather](https://github.com/user-attachments/assets/de3b5ab3-3a1d-488c-8a79-5ac0f85621ad)
+
 ## Aplicação de Consulta de Clima com Streamlit e Docker
 Este repositório contém uma aplicação simples que utiliza Streamlit para consultar dados meteorológicos usando a API do OpenWeather. A aplicação está containerizada usando Docker para facilitar o ambiente de desenvolvimento e execução.
 
